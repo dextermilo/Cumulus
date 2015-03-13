@@ -69,6 +69,9 @@
         <members>ERR_Notifier</members>
         <members>ERR_ParentAccountUpdater2_TEST</members>
         <members>ERR_ParentAccountUpdater_TEST</members>
+        <members>Github</members>
+        <members>GithubBaseClient</members>
+        <members>GithubIssueClient</members>
         <members>HH_CampaignDedupeBTN_CTRL</members>
         <members>HH_CampaignDedupeBTN_TEST</members>
         <members>HH_CampaignDedupe_BATCH</members>
